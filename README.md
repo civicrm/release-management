@@ -7,9 +7,10 @@ index of release-plans and the release invitations.
 
 | Name            | Invitations     | Review Week    | Test Week      | Release       | Planning Document |
 | --------------- | --------------- | -------------- |----------------| ------------- |-------------------|
-| April-May Cycle (4.7.7) | Apr 5 - 8 | Apr 9 - 18     | Apr 22 - May 1 | May 4, 2016   | [Google Doc](https://docs.google.com/spreadsheets/d/14j8YgFTeMneuLI7iKOBhZYu1i1oksvKLG47W7hYUwU0/edit?usp=sharing)
-| May-June Cycle (4.7.8) | May 5 - 10 | May 10 - 18    | May 21 - 29    | June 1, 2016   | [Google Doc](https://docs.google.com/spreadsheets/d/10EyNqm3-CbAwUjYzckrwSE7VjpZCfatzh-bES59XqA8/edit?usp=sharing)
+| July-August Cycle (4.7.10) | July 5 - 10 | July 11 - 19 | July 20 - July 29 | July 3, 2016 | [Google Doc](https://docs.google.com/document/d/1UAFOy0gXar_ouzWgOpCdbMA2r6_sIyO_KPiZey9jVDE/edit)
 | June-July Cycle (4.7.9) | June 9 - 14  | June 14 - 25  | June 27 - July 3    | July 6, 2016   | [Google Doc](https://docs.google.com/spreadsheets/d/1fmHFOZ83ectSPCMWvXwCeJgrw4KpYi8JEV2ZDkd6XDU/edit?usp=sharing)
+| May-June Cycle (4.7.8) | May 5 - 10 | May 10 - 18    | May 21 - 29    | June 1, 2016   | [Google Doc](https://docs.google.com/spreadsheets/d/10EyNqm3-CbAwUjYzckrwSE7VjpZCfatzh-bES59XqA8/edit?usp=sharing)
+| April-May Cycle (4.7.7) | Apr 5 - 8 | Apr 9 - 18     | Apr 22 - May 1 | May 4, 2016   | [Google Doc](https://docs.google.com/spreadsheets/d/14j8YgFTeMneuLI7iKOBhZYu1i1oksvKLG47W7hYUwU0/edit?usp=sharing)
 
  * **Invitations**: The release-manager curates the list of pending PRs and invites developers to partner-up based on related topics (such as a "CiviMail" group or a "CiviContribute" group). All members of the core developer team will participate.
  * **Review Week**: Participants review each other's PRs. This may involve some discussion, code-review, testing, merging, or closing PRs.
