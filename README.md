@@ -7,7 +7,7 @@ index of release-plans and the release invitations.
 
 | Name            | Invitations     | Review Week    | Test Week      | Release       | Planning Document |
 | --------------- | --------------- | -------------- |----------------| ------------- |-------------------|
-| October-November Cycle (4.7.13)| Sep 19 - Oct 13 | Sep 19 - Oct 13 | Oct 14 - 29 | Nov 2, 2016 | 
+| October-November Cycle (4.7.13)| Sep 19 - Oct 13 | Sep 19 - Oct 13 | Oct 14 - 29 | Nov 2, 2016 | [Google Doc](https://docs.google.com/spreadsheets/d/1Kr4OuyMqKBCo5TOSf5CCIKv4vP5X0oT7K3jB7gDLQxg/edit?usp=sharing)
 | September-October Cycle (4.7.12)| Sep 8 - 18 | Sep 8 - 18 | Sep 20 - Oct 1 | Oct 5, 2016 | 
 | August-September Cycle (4.7.11) | --| Aug 16 - 27 | Aug 29 - Sep 4 | Sep 7, 2016 | [Google Doc](https://docs.google.com/spreadsheets/d/1XSLoTNr6RKUvaydGPhdsQMT6orimub1AO1ZEbEe_Mp8/edit?usp=sharing), [JIRA Board](https://issues.civicrm.org/jira/secure/RapidBoard.jspa?rapidView=32&view=planning)
 | July-August Cycle (4.7.10) | Jul 5 - 10 | Jul 11 - 19 | Jul 20 - Jul 29 | Jul 3, 2016 | [Google Doc](https://docs.google.com/document/d/1UAFOy0gXar_ouzWgOpCdbMA2r6_sIyO_KPiZey9jVDE/edit), [JIRA Board](https://issues.civicrm.org/jira/secure/RapidBoard.jspa?rapidView=28&view=planning), [Calendar](https://calendar.google.com/calendar/embed?src=91qib0v17nu4oom8cv8vss9jp0%40group.calendar.google.com&ctz=US/Pacific)
