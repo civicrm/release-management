@@ -7,6 +7,7 @@ index of release-plans and the release invitations.
 
 | Name            | Invitations     | Review Week    | Test Week      | Release       | Post Mortem | Planning Document |
 | --------------- | --------------- | -------------- |----------------| ------------- | ----------- |-------------------|
+|November-December Cycle (4.7.14)| Nov 5 - 11 | Nov 11 - 21|Nov 22 - 6 Dec | Dec 7, 2016 | Dec 14 - 15 | [Google Doc](https://docs.google.com/document/d/107kGgGCQnsjPlGQqXUqO2P7u1mfdtnJ8EQ8pq_L7mIo/edit?usp=sharing)
 | October-November Cycle (4.7.13)| Sep 19 - Oct 13 | Sep 19 - Oct 13 | Oct 14 - 29 | Nov 2, 2016 | Nov 9 - 10 | [Google Doc](https://docs.google.com/spreadsheets/d/1Kr4OuyMqKBCo5TOSf5CCIKv4vP5X0oT7K3jB7gDLQxg/edit?usp=sharing)
 | September-October Cycle (4.7.12)| Sep 8 - 18 | Sep 8 - 18 | Sep 20 - Oct 1 | Oct 5, 2016 | | 
 | August-September Cycle (4.7.11) | --| Aug 16 - 27 | Aug 29 - Sep 4 | Sep 7, 2016 | | [Google Doc](https://docs.google.com/spreadsheets/d/1XSLoTNr6RKUvaydGPhdsQMT6orimub1AO1ZEbEe_Mp8/edit?usp=sharing), [JIRA Board](https://issues.civicrm.org/jira/secure/RapidBoard.jspa?rapidView=32&view=planning)
