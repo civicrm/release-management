@@ -7,9 +7,11 @@ index of release-plans and the release invitations.
 
 | Name            | Invitations     | Review Week    | Test Week      | Release       | Post Mortem | Planning Document |
 | --------------- | --------------- | -------------- |----------------| ------------- | ----------- |-------------------|
+|January-February Cycle (4.7.16)| Jan 9 - 16 | Jan 17 - 23|Jan 24 - 7 Feb | Feb 8, 2017 | N/A | [Signup Form](https://civicrm.org/civicrm-release-sign-up) [Release Management](https://civicrm.org/civicrm-release-management)
+|December-January Cycle (4.7.15)| Dec 5 - 10 | Dec 10 - 15|Dec 16 - 3 Jan | Jan 4, 2017 | N/A | [Google Doc](https://docs.google.com/document/d/1cBRc2QQBIF3uEmBfbPrv-dxgM1LDLx-aL3OmaNmJQDM/edit?usp=sharing)
 |November-December Cycle (4.7.14)| Nov 5 - 11 | Nov 11 - 21|Nov 22 - 6 Dec | Dec 7, 2016 | Dec 14 - 15 | [Google Doc](https://docs.google.com/document/d/107kGgGCQnsjPlGQqXUqO2P7u1mfdtnJ8EQ8pq_L7mIo/edit?usp=sharing)
 | October-November Cycle (4.7.13)| Sep 19 - Oct 13 | Sep 19 - Oct 13 | Oct 14 - 29 | Nov 2, 2016 | Nov 9 - 10 | [Google Doc](https://docs.google.com/spreadsheets/d/1Kr4OuyMqKBCo5TOSf5CCIKv4vP5X0oT7K3jB7gDLQxg/edit?usp=sharing)
-| September-October Cycle (4.7.12)| Sep 8 - 18 | Sep 8 - 18 | Sep 20 - Oct 1 | Oct 5, 2016 | | 
+| September-October Cycle (4.7.12)| Sep 8 - 18 | Sep 8 - 18 | Sep 20 - Oct 1 | Oct 5, 2016 | |
 | August-September Cycle (4.7.11) | --| Aug 16 - 27 | Aug 29 - Sep 4 | Sep 7, 2016 | | [Google Doc](https://docs.google.com/spreadsheets/d/1XSLoTNr6RKUvaydGPhdsQMT6orimub1AO1ZEbEe_Mp8/edit?usp=sharing), [JIRA Board](https://issues.civicrm.org/jira/secure/RapidBoard.jspa?rapidView=32&view=planning)
 | July-August Cycle (4.7.10) | Jul 5 - 10 | Jul 11 - 19 | Jul 20 - Jul 29 | Jul 3, 2016 | | [Google Doc](https://docs.google.com/document/d/1UAFOy0gXar_ouzWgOpCdbMA2r6_sIyO_KPiZey9jVDE/edit), [JIRA Board](https://issues.civicrm.org/jira/secure/RapidBoard.jspa?rapidView=28&view=planning), [Calendar](https://calendar.google.com/calendar/embed?src=91qib0v17nu4oom8cv8vss9jp0%40group.calendar.google.com&ctz=US/Pacific)
 | June-July Cycle (4.7.9) | Jun 9 - 14  | Jun 14 - 25  | Jun 27 - Jul 3    | Jul 6, 2016   | | [Google Doc](https://docs.google.com/spreadsheets/d/1fmHFOZ83ectSPCMWvXwCeJgrw4KpYi8JEV2ZDkd6XDU/edit?usp=sharing)
