@@ -7,6 +7,7 @@ index of release-plans and the release invitations.
 
 | Name            | Invitations     | Review Week    | Test Week      | Release       | Post Mortem | Planning Document |
 | --------------- | --------------- | -------------- |----------------| ------------- | ----------- |-------------------|
+|February-Wednesday Cycle (4.7.17)| Feb 9 - 16 | Feb 17 - 23| Feb 24 - 5 Mar | Mar 6, 2017 | N/A | [Signup Form](https://civicrm.org/civicrm-release-sign-up) [Release Management](https://civicrm.org/civicrm-release-management)
 |January-February Cycle (4.7.16)| Jan 9 - 16 | Jan 17 - 23|Jan 24 - 7 Feb | Feb 8, 2017 | N/A | [Signup Form](https://civicrm.org/civicrm-release-sign-up) [Release Management](https://civicrm.org/civicrm-release-management)
 |December-January Cycle (4.7.15)| Dec 5 - 10 | Dec 10 - 15|Dec 16 - 3 Jan | Jan 4, 2017 | N/A | [Google Doc](https://docs.google.com/document/d/1cBRc2QQBIF3uEmBfbPrv-dxgM1LDLx-aL3OmaNmJQDM/edit?usp=sharing)
 |November-December Cycle (4.7.14)| Nov 5 - 11 | Nov 11 - 21|Nov 22 - 6 Dec | Dec 7, 2016 | Dec 14 - 15 | [Google Doc](https://docs.google.com/document/d/107kGgGCQnsjPlGQqXUqO2P7u1mfdtnJ8EQ8pq_L7mIo/edit?usp=sharing)
