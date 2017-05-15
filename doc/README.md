@@ -9,7 +9,4 @@
    * [Publish a final release](4.7-final.md)
    * [Announce a final release](any-announce.md)
 
-> The 4.6 process differs from the 4.7 process:
->  a. At a policy level, 4.6 does not use release candidates. 4.7 does.
->  b. At a technical level, 4.6 does not provide as many build-artifacts
->     as 4.7. (Notably, 4.7 includes the JSON-git report and the Backdrop build).
+> __Note__: 4.6 and 4.7 have slightly different release policies: 4.7 uses release-candidates, and 4.6 does not. This leads to slightly different steps for each.
