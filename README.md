@@ -5,8 +5,9 @@ index of release-plans and the release invitations.
 
 ## Release Plans
 
-| Name            | Invitations     | QA Week    | Test Week      | Release       | Post Mortem | Planning Document |
+| Name            | Invitations     | Review Week    | Test Week      | Release       | Post Mortem | Planning Document |
 | --------------- | --------------- | -------------- |----------------| ------------- | ----------- |-------------------|
+|June-July Cycle (4.7.21)| Jun 5 | Jun 6 - 12 | Jun 13 - Jul 4 | Jul 5, 2017 | N/A | |
 |May-June Cycle (4.7.20)| May 4 | May 5 - 12 | May 13 - Jun 6 | Jun 7, 2017 | N/A | [Signup Form](https://civicrm.org/civicrm-release-sign-up) [Release Management](https://civicrm.org/civicrm-release-management)
 |April-May Cycle (4.7.19)| Apr 7 - 13 | Apr 13 - 18| Apr 19 - 2 May | May 3, 2017 | N/A | [Signup Form](https://civicrm.org/civicrm-release-sign-up) [Release Management](https://civicrm.org/civicrm-release-management)
 |March-April Cycle (4.7.18)| Mar 13 - 19 | Mar 19 - 22| Mar 23 - 4 Apr | Apr 5, 2017 | N/A | [Signup Form](https://civicrm.org/civicrm-release-sign-up) [Release Management](https://civicrm.org/civicrm-release-management)
