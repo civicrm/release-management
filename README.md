@@ -7,7 +7,13 @@ index of release-plans and the release invitations.
 
 | Name            | Invitations     | Review Week    | Test Week      | Release       | Post Mortem | Planning Document |
 | --------------- | --------------- | -------------- |----------------| ------------- | ----------- |-------------------|
-|June-July Cycle (4.7.21)| Jun 5 | Jun 6 - 12 | Jun 13 - Jul 4 | Jul 5, 2017 | N/A | |
+|Nov-Dec Cycle (4.7.27)|  |  | Nov 1 - Dec 6 | Dec 6, 2017 | N/A | |
+|Oct-Nov Cycle (4.7.26)|  |  | Oct 6 - Oct 30 | Nov 1, 2017 | N/A | |
+|Sep-Oct Cycle (4.7.25)|  |  | Sep 6 - Oct 4 | Oct 5, 2017 | N/A | |
+|Aug-Sep Cycle (4.7.24)|  |  | Aug 3 - Sep 5 | Sep 6, 2017 | N/A | |
+|July-Aug Cycle (4.7.23)|  |  | | Aug 3, 2017 | N/A | |
+|July Patch (4.7.22)|   |  |  | Jul 12, 2017 | N/A | |
+|June-July Cycle (4.7.21)|   |  |  | Jul 6, 2017 | N/A | |
 |May-June Cycle (4.7.20)| May 4 | May 5 - 12 | May 13 - Jun 6 | Jun 7, 2017 | N/A | [Signup Form](https://civicrm.org/civicrm-release-sign-up) [Release Management](https://civicrm.org/civicrm-release-management)
 |April-May Cycle (4.7.19)| Apr 7 - 13 | Apr 13 - 18| Apr 19 - 2 May | May 3, 2017 | N/A | [Signup Form](https://civicrm.org/civicrm-release-sign-up) [Release Management](https://civicrm.org/civicrm-release-management)
 |March-April Cycle (4.7.18)| Mar 13 - 19 | Mar 19 - 22| Mar 23 - 4 Apr | Apr 5, 2017 | N/A | [Signup Form](https://civicrm.org/civicrm-release-sign-up) [Release Management](https://civicrm.org/civicrm-release-management)
