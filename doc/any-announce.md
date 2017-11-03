@@ -4,7 +4,7 @@
 
 Consult the "Security and Release Planning" spreadsheet and check the security items which are marked for this release:
 
-* Verify that each advisory is published. Ensure that the advisory's date matches the current date and the author is `dev-team`. (Tip: To ensure pleasant order, set the time as `12:00:{advisorynumber}`.) Browse https://civicrm.org/advisory
+* Verify that each advisory is published. Ensure that the advisory's date matches the current date. (Tip: To ensure pleasant order, set the time as `12:00:{advisorynumber}`.) Ensure that the author is `dev-team`.  Browse https://civicrm.org/advisory
 * Verify that each JIRA issue is closed (Done/Fixed) with appropriate version#. Leave the security level as "Security: Unpublished". 
 
 Next, prepare a mail blast in CiviMail. The message should:
