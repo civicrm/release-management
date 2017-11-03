@@ -2,11 +2,16 @@
 
 ## Security announcements
 
-Liaise with security team, and with a JIRA search for any issues in this release which are Security: Unpublished. They should all be marked as an appropriate status of Done/Fixed at time of release or have their version number bumped to unscheduled or next release rc. If there are matches of Unpublished completed issues for the version being released,
+Consult the "Security and Release Planning" spreadsheet and check the security items which are marked for this release:
 
- * A security advisory node for each security fix must be ready to be published on https://civicrm.org
- * A security advisory CiviMail must be ready to be sent to members of group Security Notifications ([more information](https://civicrm.org/security))
-   The release must be made within the security release window.
+* Verify that each advisory is published. Ensure that the advisory's date matches the current date and the author is `dev-team`. (Tip: To ensure pleasant order, set the time as `12:00:{advisorynumber}`.) Browse https://civicrm.org/advisory
+* Verify that each JIRA issue is closed (Done/Fixed) with appropriate version#. Leave the security level as "Security: Unpublished". 
+
+Next, prepare a mail blast in CiviMail. The message should:
+
+* Use the template below
+* Link to each security advisory (Tip: Double-check these links. During the writing/editing process, the URL may change whenever fixes a problem in the advisory title.)
+* Send the blast to members of the group "Security Notifications" ([more information](https://civicrm.org/security))
 
 Example announcement template:
 
