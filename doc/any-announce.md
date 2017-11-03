@@ -2,7 +2,7 @@
 
 ## Security announcements
 
-Liaise with security team, and with a JIRA search for any issues in this release which are Security: Unpublished. If there are matches,
+Liaise with security team, and with a JIRA search for any issues in this release which are Security: Unpublished. They should all be marked as an appropriate status of Done/Fixed at time of release or have their version number bumped to unscheduled or next release rc. If there are matches of Unpublished completed issues for the version being released,
 
  * A security advisory node for each security fix must be ready to be published on https://civicrm.org
  * A security advisory CiviMail must be ready to be sent to members of group Security Notifications ([more information](https://civicrm.org/security))
