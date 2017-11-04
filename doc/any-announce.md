@@ -10,7 +10,7 @@ Consult the "Security and Release Planning" spreadsheet and check the security i
 Next, prepare a mail blast in CiviMail. The message should:
 
 * Use the template below
-* Link to each security advisory (Tip: Double-check these links. During the writing/editing process, the URL may change whenever fixes a problem in the advisory title.)
+* Link to each security advisory (Tip: Double-check these links. During the writing/editing process, the URL may change whenever someone fixes text in the advisory title.)
 * Send the blast to members of the group "Security Notifications" ([more information](https://civicrm.org/security))
 
 Example announcement template:
