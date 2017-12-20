@@ -5,8 +5,10 @@ index of release-plans and the release invitations.
 
 ## Release Plans
 
-| Name            | Invitations     | Review Week    | Test Week      | Release       | Post Mortem | Planning Document |
+| Name            | Invitations     | Reviewing    | Testing      | Release       | Post Mortem | Planning Document |
 | --------------- | --------------- | -------------- |----------------| ------------- | ----------- |-------------------|
+|Dec-Feb Cycle (4.7.30)|  |  | Dec 20 - Feb 6 | Dec 7, 2017 | N/A | |
+|Dec Patch (4.7.29)|  |  | | Dec 20, 2017 | N/A | |
 |Nov-Dec Cycle (4.7.28)|  |  | Nov 1 - Dec 6 | Dec 6, 2017 | N/A | |
 |Oct-Nov Cycle (4.7.27)|  |  | Oct 6 - Oct 30 | Nov 1, 2017 | N/A | |
 |Oct-Nov Cycle (4.7.26)|  |  | Oct 6 - Oct 30 | Nov 1, 2017 | N/A | |
