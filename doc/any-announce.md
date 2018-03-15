@@ -33,11 +33,11 @@ Example announcement template:
 ## Blog
 
 [Post to the blog](http://civicrm.org/blog). A few things to ensure:
- * The author of the blog should be Drupal user `dev-team`. (If you don't have rights to specify the blog's author, and if you don't have a password for `dev-team`, then PM `totten` for the credentials.)
- * Check "Promote to Front Page" so blog appears on home page banner (below gallery). 
- * Blog should include release highlights.  
- * List of CONTRIBUTORS should be reviewed and updated (process TBD). (*Is this still relevant now that we have better relase notes?*)
 
+* The author of the blog should be Drupal user `dev-team`. (If you don't have rights to specify the blog's author, and if you don't have a password for `dev-team`, then PM `totten` for the credentials.)
+* Check "Promote to Front Page" so blog appears on home page banner (below gallery). 
+* Blog should include release highlights.  
+* List of CONTRIBUTORS should be reviewed and updated (process TBD). (*Is this still relevant now that we have better relase notes?*)
 
 ## Twitter
 
@@ -47,5 +47,5 @@ Post to Twitter as "@civicrm" (or ping the `marketing` channel on Mattermost). I
 
 Update Versions in JIRA (http://issues.civicrm.org/jira/plugins/servlet/project-config/CRM/versions) (TODO: does JIRA have an api we could tap into to add this step to the releaser script?)
 
- * Mark this version as released
- * Add 'next' versions (should be two future versions present on active branch - e.g. when 4.7.1 is released, should be 4.7.2 and 4.7.3)
+* Mark this version as released
+* Add 'next' versions (should be two future versions present on active branch - e.g. when 4.7.1 is released, should be 4.7.2 and 4.7.3)
