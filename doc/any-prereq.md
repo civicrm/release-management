@@ -1,12 +1,10 @@
 # CiviCRM (Any Version): Prerequisites
 
-## Pre-requisites
-
-* Installed+configured [Google Cloud SDK](https://cloud.google.com/sdk/downloads). (Run `gcloud init`, `gcloud auth activate-service-account --key-file ...`, or similar.)
+* Install+configure [Google Cloud SDK](https://cloud.google.com/sdk/downloads). (Run `gcloud init`, `gcloud auth activate-service-account --key-file ...`, or similar.)
 * Write access to all main CiviCRM GitHub repos (`civicrm-{core,packages,backdrop,drupal,joomla,wordpress}`)
 * Write access to Google Cloud Storage (`civicrm` and `civicrm-build` buckets)
 * Write access to SourceForge account (`civicrm`)
-* Access to CiviCRM Jenkins (https://test.civicrm.org)
+* Admin access to CiviCRM Jenkins (https://test.civicrm.org)
 * Import the CiviCRM GPG keypair (`7A1E75CB`)
 * Local copy of [buildkit](https://github.com/civicrm/civicrm-buildkit/)
 * Local clones of all main CiviCRM git repos (e.g. `mkdir src; cd src; gitify all --skip-gencode` or `cividist create dist`)
