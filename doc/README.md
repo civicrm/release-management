@@ -1,5 +1,6 @@
 ## CiviCRM Release Mechanics
 
+ * [Prerequisites](any-prereq.md)
  * CiviCRM v4.6.x
    * [Publish a final release](4.6-final.md)
    * [Announce a final release](any-announce.md)
