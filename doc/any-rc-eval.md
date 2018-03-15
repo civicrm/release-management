@@ -1,6 +1,4 @@
-# CiviCRM v4.7.x: Evaluate a release candidate
-
-#  <span style="color:red">__WARNING__: Not updated since 5.x</span>
+# CiviCRM: Evaluate a release candidate
 
 ## Check the build
 
