@@ -1,4 +1,4 @@
-# CiviCRM v4.x.x: Announce a final release
+# CiviCRM (Any Version): Announce a final release
 
 ## Security announcements
 
