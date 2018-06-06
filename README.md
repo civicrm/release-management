@@ -7,6 +7,9 @@ index of release-plans and the release invitations.
 
 | Name            | Invitations     | Reviewing    | Testing      | Release       | Post Mortem | Planning Document |
 | --------------- | --------------- | -------------- |----------------| ------------- | ----------- |-------------------|
+|Jul-Aug Cycle (5.4.0)|  |  | Jul 3 - Aug 1  | Aug 1, 2018 | N/A | |
+|Jun-Jul Cycle (5.3.0)|  |  | Jun 6 - Jul 3  | Jul 3, 2018 | N/A | |
+|May-Jun Cycle (5.2.0)|  |  | May 2 - Jun 6  | Jun 6, 2018 | N/A | |
 |Apr-May Cycle (5.1.0)|  |  | Apr 5 - May 2  | May 2, 2018 | N/A | |
 |Mar-Apr Cycle (5.0.0)|  |  | Mar 7 - Apr 4  | Apr 4, 2018 | N/A | |
 |Feb-Mar Cycle (4.7.31)|  |  | Feb 7 - Mar 6  | Mar 7, 2018 | N/A | |

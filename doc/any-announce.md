@@ -1,5 +1,10 @@
 # CiviCRM (Any Version): Announce a final release
 
+## Release date calendar
+
+Ensure that the new release and the next release are listed in the README.md
+calendar.
+
 ## Security announcements
 
 Consult the "Security and Release Planning" spreadsheet and check the security items which are marked for this release:
