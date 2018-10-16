@@ -117,18 +117,20 @@ Secondly, there's the permutations of how CiviCRM users build on the software:
 * Specialize in data migration/ETL or mobile apps or Python or NodeJS -- and rely heavily on REST integration.
 
 Our current practices are shaped by experiences in previous eras.  Generally, there has been a lot of feedback that
-upgrading can be difficult, and the processes have matured in response.  I look at this a gradual transition between
+upgrading can be difficult, and the processes have matured in response.  I look at this as a gradual transition among
 three eras:
 
-1. First Era: A large number of developers had direct commit access.  Reviews were not done on a patch-by-patch basis,
-   and patches could accumulate over a period of 3-9 months.  Instead, there'd be a subsequent 3 month period of
-   alpha/beta testing -- followed by another 3-6 month period of post-release stabilization.
+1. *First Era (SVN)*: A large number of developers had direct commit access.  Changes were committed continuously to the trunk.
+   Review/QA was asynchronous and post-commit. We had some very good QA'ers, but we also had a structural problem: once
+   something was committed, we lost a lot of leverage for getting QA done -- which led to a long stabilization
+   period (several months of alpha/beta plus several months of post-release fixup).
 
-2. Second Era: A smaller number of developers had merge rights. There were reviews, but they varied widely depending
-   on the reviewer.  Reviews were always performed by the merger.  Some mergers would give a light skim and approve
+2. *Second Era (Early Github)*: A small number of developers had merge rights. There were reviews, but they varied widely depending
+   on the reviewer.  Reviews were always performed by the merger.  Some mergers would give a light skim
    (because they'd expect a subsequent period of alpha/beta testing) while other mergers were meticulous about testing
    related use-cases.
 
-3. Third Era: A smaller number of developers had merge rights. Reviews become more distributed among a broader
+3. *Third Era (Later Github)*: A small number of developers had merge rights. Reviews become more distributed among a broader
    set of contributors -- mergers act as facilitators and seek to enforce more particular norms.
 
+We're currently in the third era -- where mergers are facilitators who provide a final check.
