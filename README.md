@@ -7,6 +7,8 @@ index of release-plans and the release invitations.
 
 | Name   | Development/Alpha Period | RC/Beta Period  | Release Date   | Stable Period |
 | ------ | ------------------------ | --------------- |----------------| ------------- |
+| 5.9.x  | Nov 2018                 | Dec 2018        | Jan 2, 2019    | Jan 2019      |
+| 5.8.x  | Oct 2018                 | Nov 2018        | Dec 5, 2018    | Dec 2018      |
 | 5.7.x  | Sep 2018                 | Oct 2018        | Nov 7, 2018    | Nov 2018      |
 | 5.6.x  | Aug 2018                 | Sep 2018        | Oct 3, 2018    | Oct 2018      |
 | 5.5.x  | Jul 2018                 | Aug 2018        | Sep 5, 2018    | Sep 2018      |
