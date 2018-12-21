@@ -7,9 +7,10 @@ index of release-plans and the release invitations.
 
 | Name   | Development/Alpha Period | RC/Beta Period  | Release Date   | Stable Period |
 | ------ | ------------------------ | --------------- |----------------| ------------- |
+| 5.10.x | Dec 2018                 | Jan 2019        | Feb 7, 2019    | Feb 2019      |
 | 5.9.x  | Nov 2018                 | Dec 2018        | Jan 2, 2019    | Jan 2019      |
 | 5.8.x  | Oct 2018                 | Nov 2018        | Dec 5, 2018    | Dec 2018      |
-| 5.7.x  | Sep 2018                 | Oct 2018        | Nov 7, 2018    | Nov 2018      |
+| 5.7.x  | Sep 2018                 | Oct 2018        | Nov 7, 2018    | Nov 2018 plus [ESR](https://civicrm.org/blog/josh/civicrm-version-57-candidate-for-extended-security-release) |
 | 5.6.x  | Aug 2018                 | Sep 2018        | Oct 3, 2018    | Oct 2018      |
 | 5.5.x  | Jul 2018                 | Aug 2018        | Sep 5, 2018    | Sep 2018      |
 | 5.4.x  | Jun 2018                 | Jul 2018        | Aug 1, 2018    | Aug 2018      |
