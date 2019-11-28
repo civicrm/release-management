@@ -7,18 +7,24 @@ index of release-plans and the release invitations.
 
 | Name   | Development/Alpha Period | RC/Beta Period  | Release Date   | Stable Period |
 | ------ | ------------------------ | --------------- |----------------| ------------- |
+| 5.24.x | Feb 2019                 | Mar 2019        | Apr 1, 2019    | Apr 2019      |
+| 5.23.x | Jan 2019                 | Feb 2019        | Mar 4, 2019    | Mar 2019      |
+| 5.22.x | Dec 2019                 | Jan 2019        | Feb 5, 2019    | Feb 2019      |
+| 5.21.x | Nov 2019                 | Dec 2019        | Jan 1, 2019    | Jan 2019 plus [ESR](https://civicrm.org/esr) |
+| 5.20.x | Oct 2019                 | Nov 2019        | Dec 4, 2019    | Dec 2019      |
+| 5.19.x | Sep 2019                 | Oct 2019        | Nov 6, 2019    | Nov 2019      |
 | 5.18.x | Aug 2019                 | Sep 2019        | Oct 2, 2019    | Oct 2019      |
 | 5.17.x | Jul 2019                 | Aug 2019        | Sep 4, 2019    | Sep 2019      |
 | 5.16.x | Jun 2019                 | Jul 2019        | Aug 7, 2019    | Aug 2019      |
 | 5.15.x | May 2019                 | Jun 2019        | Jul 3, 2019    | Jul 2019      |
 | 5.14.x | Apr 2019                 | May 2019        | Jun 5, 2019    | Jun 2019      |
-| 5.13.x | Mar 2019                 | Apr 2019        | May 1, 2019    | May 2019 plus [ESR](https://civicrm.org/blog/josh/civicrm-version-57-candidate-for-extended-security-release) |
+| 5.13.x | Mar 2019                 | Apr 2019        | May 1, 2019    | May 2019 plus [ESR](https://civicrm.org/esr) |
 | 5.12.x | Feb 2019                 | Mar 2019        | Apr 3, 2019    | Apr 2019      |
 | 5.11.x | Jan 2019                 | Feb 2019        | Mar 6, 2019    | Mar 2019      |
 | 5.10.x | Dec 2018                 | Jan 2019        | Feb 7, 2019    | Feb 2019      |
 | 5.9.x  | Nov 2018                 | Dec 2018        | Jan 2, 2019    | Jan 2019      |
 | 5.8.x  | Oct 2018                 | Nov 2018        | Dec 5, 2018    | Dec 2018      |
-| 5.7.x  | Sep 2018                 | Oct 2018        | Nov 7, 2018    | Nov 2018 plus [ESR](https://civicrm.org/blog/josh/civicrm-version-57-candidate-for-extended-security-release) |
+| 5.7.x  | Sep 2018                 | Oct 2018        | Nov 7, 2018    | Nov 2018 plus [ESR](https://civicrm.org/esr) |
 | 5.6.x  | Aug 2018                 | Sep 2018        | Oct 3, 2018    | Oct 2018      |
 | 5.5.x  | Jul 2018                 | Aug 2018        | Sep 5, 2018    | Sep 2018      |
 | 5.4.x  | Jun 2018                 | Jul 2018        | Aug 1, 2018    | Aug 2018      |
