@@ -80,6 +80,18 @@ particular bias/pre-commitment on this question.  This is high-risk/high-reward 
 add *more* issues without resolving the old issues.  Reward: if the new participants agree, then it can tilt the
 balance more clearly.
 
+## (Perceived) Conflicts of Interest
+
+Historically there have been concerns that some PRs might be too easily accepted if a merger had some conflict of interest. 
+For example, if they worked for a company that had a client contract that would benefit from a core change, and a 
+colleague on the project submitted the PR. Would the merger potentially go easy on not requiring a unit test in order to 
+avoid the cost if their project was over budget? Would they merge a PR involving some controversial change 
+without ensuring the normal consultation it merits? 
+
+In such cases the practice has been for the merger with a potential conflict to mark the PR as 'merge-ready' and solicit a 
+different merger to do the merge. This provides a formal way to ensure impartiality and the perception of impartiality in 
+the merge process.
+
 ## Master, RC, and Stable
 
 Each version passes through phases of development/alpha, RC/freeze/beta, and stable/maintenance.  As a rule of
@@ -96,7 +108,7 @@ The stages are discussed in more detail in the primary [README.md](../README.md)
 Three channels are generally important for anyone who merges:
 
 * `product-maintenance` (public) - Planning/coordination around criticals and regressions
-* `dev-post-release` (public) - Special escalation for new problemss that are distinct to the most recent release
+* `dev-post-release` (public) - Special escalation for new problems that are distinct to the most recent release
 * `mergers` (private) - Admin chatter
 
 ## History: Upgrades, customizations, 2.x - 5.x eras
