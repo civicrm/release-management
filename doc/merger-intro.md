@@ -89,8 +89,8 @@ avoid the cost if their project was over budget? Would they merge a PR involving
 without ensuring the normal consultation it merits? 
 
 In such cases the practice has been for the merger with a potential conflict to mark the PR as 'merge-ready' and solicit a 
-different merger to do the merge. This provides a formal way to ensure impartiality and the perception of impartiality in 
-the merge process.
+different merger to do the merge. Alternatively, one can get a 'merge-ready' review by a strong independent reviewer before 
+merging. This provides a formal way to ensure impartiality and the perception of impartiality in the merge process.
 
 ## Master, RC, and Stable
 
