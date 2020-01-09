@@ -78,13 +78,13 @@ specific person.
 Similarly, you can build a consensus on your own -- find a couple other people who know the topic but have no
 particular bias/pre-commitment on this question.  This is high-risk/high-reward play.  Risk: the new participants may
 add *more* issues without resolving the old issues.  Reward: if the new participants agree, then it can tilt the
-balance more clearly.
+balance more clearly and produce more confidence for all.
 
 ## (Perceived) Conflicts of Interest
 
 Historically there have been concerns that some PRs might be too easily accepted if a merger had some conflict of interest. 
-For example, if they worked for a company that had a client contract that would benefit from a core change, and a 
-colleague on the project submitted the PR. Would the merger potentially go easy on not requiring a unit test in order to 
+For example, suppose they worked for a company that had a client contract that would benefit from a core change and suppose a 
+colleague on the project submitted the PR. Would the merger potentially go easy by not requiring a unit test in order to 
 avoid the cost if their project was over budget? Would they merge a PR involving some controversial change 
 without ensuring the normal consultation it merits? 
 
@@ -98,17 +98,16 @@ Each version passes through phases of development/alpha, RC/freeze/beta, and sta
 thumb:
 
 * You can accept a PR in `master`... if it passes the general standards.
-* You can accept a PR in the current RC/beta branch... if it passes the general standards and fixes a recent regression.
-* You can accept a PR in the current stable branch... if it passes the general standards, fixes a recent regression, and is backport.
+* You can accept a PR in the current RC/beta branch... if it passes the general standards *and* fixes a recent regression.
+* You can accept a PR in the current stable branch... if it passes the general standards, fixes a recent regression, *and* is backport.
 
 The stages are discussed in more detail in the primary [README.md](../README.md).
 
 ## Communication media
 
-Three channels are generally important for anyone who merges:
+Two channels are generally important for anyone who merges:
 
 * `product-maintenance` (public) - Planning/coordination around criticals and regressions
-* `dev-post-release` (public) - Special escalation for new problems that are distinct to the most recent release
 * `mergers` (private) - Admin chatter
 
 ## History: Upgrades, customizations, 2.x - 5.x eras
@@ -116,14 +115,18 @@ Three channels are generally important for anyone who merges:
 CiviCRM began as singular product and grew into a diverse community/ecosystem. This diversity works in
 multiple levels.
 
-Firstly, there's the permutations of functionality in the project itself -- Contacts, Activities, Contributions, etc;
-Drupal, WordPress, etc; Paypal, Authorize.net, etc; web-UI, CLI, REST, etc.
+Firstly, there's the permutations of *functionality* in the project itself:
 
-Secondly, there's the permutations of how CiviCRM users build on the software:
+* Contacts, Activities, Contributions, etc;
+* Drupal, WordPress, etc; 
+* PayPal, Authorize.net, etc;
+* Web-UI, CLI, REST, etc.
+
+Secondly, there's the permutations of *how* CiviCRM users build on the software:
 
 * Run one site -- or run a hundred sites -- or run one site with a hundred subsites.
 * Use the unmodified, stock software -- or maintain forks with a dozen patches on top.
-* Publish extensions for the general public -- or develop in-house extensions for quirky use-cases.
+* Publish extensions for the general public -- or develop in-house extensions for bespoke use-cases.
 * Choose among one or two extremely common themes -- or write totally bespoke themes to fine-tune the front-end and/or back-end appearance.
 * Specialize in Drupal development or WordPress development -- and maintain deep integrations.
 * Specialize in data migration/ETL or mobile apps or Python or NodeJS -- and rely heavily on REST integration.
