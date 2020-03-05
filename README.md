@@ -7,6 +7,10 @@ index of release-plans and the release invitations.
 
 | Name   | Development/Alpha Period | RC/Beta Period  | Release Date   | Stable Period |
 | ------ | ------------------------ | --------------- |----------------| ------------- |
+| 5.28.x | Jun 2019                 | Jul 2019        | Aug 5, 2019    | Aug 2019      |
+| 5.27.x | May 2019                 | Jun 2019        | Jul 1, 2019    | Jul 2019      |
+| 5.26.x | Apr 2019                 | May 2019        | Jun 3, 2019    | Jun 2019      |
+| 5.25.x | Mar 2019                 | Apr 2019        | May 6, 2019    | May 2019      |
 | 5.24.x | Feb 2019                 | Mar 2019        | Apr 1, 2019    | Apr 2019      |
 | 5.23.x | Jan 2019                 | Feb 2019        | Mar 4, 2019    | Mar 2019      |
 | 5.22.x | Dec 2019                 | Jan 2019        | Feb 5, 2019    | Feb 2019      |
