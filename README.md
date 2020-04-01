@@ -7,14 +7,24 @@ index of release-plans and the release invitations.
 
 | Name   | Development/Alpha Period | RC/Beta Period  | Release Date   | Stable Period |
 | ------ | ------------------------ | --------------- |----------------| ------------- |
-| 5.28.x | Jun 2019                 | Jul 2019        | Aug 5, 2019    | Aug 2019      |
-| 5.27.x | May 2019                 | Jun 2019        | Jul 1, 2019    | Jul 2019      |
-| 5.26.x | Apr 2019                 | May 2019        | Jun 3, 2019    | Jun 2019      |
-| 5.25.x | Mar 2019                 | Apr 2019        | May 6, 2019    | May 2019      |
-| 5.24.x | Feb 2019                 | Mar 2019        | Apr 1, 2019    | Apr 2019      |
-| 5.23.x | Jan 2019                 | Feb 2019        | Mar 4, 2019    | Mar 2019      |
-| 5.22.x | Dec 2019                 | Jan 2019        | Feb 5, 2019    | Feb 2019      |
-| 5.21.x | Nov 2019                 | Dec 2019        | Jan 1, 2019    | Jan 2019 plus [ESR](https://civicrm.org/esr) |
+| 5.38.x | Apr 2021                 | May 2021        | Jun 2, 2021    | Jun 2021      |
+| 5.37.x | Mar 2021                 | Apr 2021        | May 5, 2021    | May 2021      |
+| 5.36.x | Feb 2021                 | Mar 2021        | Apr 7, 2021    | Apr 2021      |
+| 5.35.x | Jan 2021                 | Feb 2021        | Mar 3, 2021    | Mar 2021      |
+| 5.34.x | Dec 2020                 | Jan 2021        | Feb 3, 2021    | Feb 2021      |
+| 5.33.x | Nov 2020                 | Dec 2020        | Jan 6, 2021    | Jan 2021 (tentative ESR)     |
+| 5.32.x | Oct 2020                 | Nov 2020        | Dec 2, 2020    | Dec 2020      |
+| 5.31.x | Sep 2020                 | Oct 2020        | Nov 4, 2020    | Nov 2020      |
+| 5.30.x | Aug 2020                 | Sep 2020        | Oct 7, 2020    | Oct 2020      |
+| 5.29.x | Jul 2020                 | Aug 2020        | Sep 2, 2020    | Sep 2020      |
+| 5.28.x | Jun 2020                 | Jul 2020        | Aug 5, 2020    | Aug 2020      |
+| 5.27.x | May 2020                 | Jun 2020        | Jul 1, 2020    | Jul 2020 (tentative ESR)     |
+| 5.26.x | Apr 2020                 | May 2020        | Jun 3, 2020    | Jun 2020      |
+| 5.25.x | Mar 2020                 | Apr 2020        | May 6, 2020    | May 2020      |
+| 5.24.x | Feb 2020                 | Mar 2020        | Apr 1, 2020    | Apr 2020      |
+| 5.23.x | Jan 2020                 | Feb 2020        | Mar 4, 2020    | Mar 2020      |
+| 5.22.x | Dec 2019                 | Jan 2020        | Feb 5, 2020    | Feb 2020      |
+| 5.21.x | Nov 2019                 | Dec 2019        | Jan 1, 2020    | Jan 2020 plus [ESR](https://civicrm.org/esr) |
 | 5.20.x | Oct 2019                 | Nov 2019        | Dec 4, 2019    | Dec 2019      |
 | 5.19.x | Sep 2019                 | Oct 2019        | Nov 6, 2019    | Nov 2019      |
 | 5.18.x | Aug 2019                 | Sep 2019        | Oct 2, 2019    | Oct 2019      |
