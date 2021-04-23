@@ -1,24 +1,34 @@
 # CiviCRM Release Management
 
-This project supports meta-activities for release-management, such as the
-index of release-plans and the release invitations.
+This project supports documentation and meta-activities for release-management.
 
 ## Release Plans
 
 | Name   | Development/Alpha Period | RC/Beta Period  | Release Date   | Stable Period |
 | ------ | ------------------------ | --------------- |----------------| ------------- |
+| 5.49.x | Mar 2022                 | Apr 2022        | May 4, 2022    | May 2022      |
+| 5.48.x | Feb 2022                 | Mar 2022        | Apr 6, 2022    | Apr 2022      |
+| 5.47.x | Jan 2022                 | Feb 2022        | Mar 2, 2022    | Mar 2022      |
+| 5.46.x | Dec 2021                 | Jan 2022        | Feb 2, 2022    | Feb 2022      |
+| 5.45.x | Nov 2021                 | Dec 2021        | Jan 5, 2022    | Jan 2022 (tentative ESR) |
+| 5.44.x | Oct 2021                 | Nov 2021        | Dec 1, 2021    | Dec 2021      |
+| 5.43.x | Sep 2021                 | Oct 2021        | Nov 3, 2021    | Nov 2021      |
+| 5.42.x | Aug 2021                 | Sep 2021        | Oct 6, 2021    | Oct 2021      |
+| 5.41.x | Jul 2021                 | Aug 2021        | Sep 1, 2021    | Sep 2021      |
+| 5.40.x | Jun 2021                 | Jul 2021        | Aug 4, 2021    | Aug 2021      |
+| 5.39.x | May 2021                 | Jun 2021        | Jul 7, 2021    | Jul 2021 (tentative ESR) |
 | 5.38.x | Apr 2021                 | May 2021        | Jun 2, 2021    | Jun 2021      |
 | 5.37.x | Mar 2021                 | Apr 2021        | May 5, 2021    | May 2021      |
 | 5.36.x | Feb 2021                 | Mar 2021        | Apr 7, 2021    | Apr 2021      |
 | 5.35.x | Jan 2021                 | Feb 2021        | Mar 3, 2021    | Mar 2021      |
 | 5.34.x | Dec 2020                 | Jan 2021        | Feb 3, 2021    | Feb 2021      |
-| 5.33.x | Nov 2020                 | Dec 2020        | Jan 6, 2021    | Jan 2021 (tentative ESR)     |
+| 5.33.x | Nov 2020                 | Dec 2020        | Jan 6, 2021    | Jan 2021 plus [ESR](https://civicrm.org/esr) |
 | 5.32.x | Oct 2020                 | Nov 2020        | Dec 2, 2020    | Dec 2020      |
 | 5.31.x | Sep 2020                 | Oct 2020        | Nov 4, 2020    | Nov 2020      |
 | 5.30.x | Aug 2020                 | Sep 2020        | Oct 7, 2020    | Oct 2020      |
 | 5.29.x | Jul 2020                 | Aug 2020        | Sep 2, 2020    | Sep 2020      |
 | 5.28.x | Jun 2020                 | Jul 2020        | Aug 5, 2020    | Aug 2020      |
-| 5.27.x | May 2020                 | Jun 2020        | Jul 1, 2020    | Jul 2020 (tentative ESR)     |
+| 5.27.x | May 2020                 | Jun 2020        | Jul 1, 2020    | Jul 2020 plus [ESR](https://civicrm.org/esr)  |
 | 5.26.x | Apr 2020                 | May 2020        | Jun 3, 2020    | Jun 2020      |
 | 5.25.x | Mar 2020                 | Apr 2020        | May 6, 2020    | May 2020      |
 | 5.24.x | Feb 2020                 | Mar 2020        | Apr 1, 2020    | Apr 2020      |
@@ -47,8 +57,6 @@ index of release-plans and the release invitations.
 | 5.1.x  | Mar 2018                 | Apr 2018        | May 2, 2018    | May 2018      |
 | 5.0.x  | Feb 2018                 | Mar 2018        | Apr 4, 2018    | Apr 2018      |
 
-Unless stated otherwise, months are generally bounded by the first Wed. Thus, development in May 2018 actually lasts from 2-May-18 to 6-Jun-18.
-
 ## Release Lifecycle
 
 Each period has a different policy on accepting changes:
@@ -68,6 +76,20 @@ Each period has a different policy on accepting changes:
     * If there are any subsequent updates, they will increment the third digit (`5.x.1`, `5.x.2`, etc).
 
 (*For historical planning information from 4.7.x cycles, see [4.7-release-history.md](doc/4.7-release-history.md).*)
+
+## Timing
+
+General rules:
+
+* Months are bounded by the first Wed. Thus, development in May 2018 actually lasts from 2-May-18 to 6-Jun-18.
+* Release dates are usually construed in US/Pacific time. Thus, a release on 7-Apr-21 in US/Pacific time may
+  be 8-Apr-21 in AU/Eastern time.
+* On a designated *Release Date*, all three main branches (development, RC, stable) will usually be updated on the same day.
+
+Those are not absolute rules -- exceptions may arise a couple times a year. For example:
+
+* If the first Wed of a month coincides with major holiday (e.g. New Years Day), then it could be moved.
+* If there is an important patch near completion, the new RC could be delayed an extra day.
 
 ## Philosophy
 
